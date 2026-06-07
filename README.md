@@ -9,4 +9,5 @@ L'osservazione che troverete in queste pagine, almeno usando la struttura a "zig
 
 Per secoli i musicisti hanno usato il circolo delle quinte per comprendere l'armonia tonale occidentale, ma la ragione per cui questa struttura emerge così naturalmente può essere spiegata in termini algebrici, infatti il circolo delle quinte si può ricreare dall'interazione tra le due scale a toni interi e la struttura di $\mathbb{Z}_{12}$. Questo lavoro nasce da una casualità, stavo spiegando a un'amica le scale a toni interi e le ho scritte in verticale una di fronte all'altra, e mentre le spiegavo i miei occhi hanno iniziato ad andare a zig zag tra le due liste di note. Sapete cosa stavo osservando? Il circolo delle quinte che appariva tra le due scale. Ho deciso di scriverci due righe a riguardo.
 
-Trovate il resto qui: [Zig-Zag](https://FabioFGBuono.github.io/Symmetries-Invariants-Music/Toni%20interi.html) 
+Trovate il resto qui: [Zig-Zag](https://github.com/FabioFGBuono/Symmetries-Invariants-Music/blob/main/Toni%20interi.html)
+
