@@ -3,6 +3,7 @@ From Theory to Discovery: Symmetries and Invariants in Music Theory
 
 ```
 
+## APPUNTI SPARSI DI UN IDEA IN SVILUPPO
 
 ## Una Simmetria Nascosta
 
